@@ -1,13 +1,2 @@
-# -Customer-Segmentation-Retention-Analysis
-Analyze customer behavior to understand who your customers are, who might churn, and which users are most valuable.
-
-
-
-git clone https://github.com/emadsaleb/Customer-Segmentation-Retention-Analysis.git
-
-
-cd Customer-Segmentation-Retention-Analysis
-
-docker build -t customer-retention-app .
-
-docker run -p 5000:5000 customer-retention-app
+Customer Churn Prediction & Retention Analysis — End-to-End ML Project
+An end-to-end machine learning project that analyzes customer data to understand customer behavior, predict which customers are likely to churn, and identify valuable customer segments to support data-driven retention strategies.
